@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  Rate & Discuss(coming soon) about open source angular projects.
+  Rate1 & Discuss(coming soon) about open source angular projects.
 </p>
 
 <p align="center">
